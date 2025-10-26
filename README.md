@@ -1,4 +1,5 @@
-💻Meine Website-Portfolio💻
+**💻Meine Website-Portfolio💻**
+
 🚀persönliches Portfolio, erstellt mit **React + TypeScript + TailwindCSS + Vite**.
 
 🛠️ Technologien
