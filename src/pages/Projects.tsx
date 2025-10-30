@@ -69,6 +69,30 @@ export default function Projects() {
 
           <div className="bg-gray-900/60 p-5 rounded-2xl shadow-md border border-gray-800 mb-6  transition-all duration-300 hover:-translate-y-2 hover:bg-gray-700/40 hover:shadow-lg">
             <strong className="block text-cyan-400 text-lg mb-2">
+              Privates Projekt
+            </strong>
+            <p className="text-gray-300 leading-relaxed text-sm">
+              Konzeption und Umsetzung einer responsiven Website Zur Vermittlung
+              und Adoption von Tieren. Entwicklung interaktiver Features wie
+              Such- und Filterfunktionen sowie Sortierung nach verschiedenen
+              Kriterien. Umsetzung unter Nutzung von HTML, CSS/Tailwind,
+              JavaScript/Type- Script und React/Vite. Implementierung
+              nutzerfreundlicher Interaktionen, wie z. B. Hover-Effekte.
+            </p>
+            <p className="mt-2">
+              <a
+                href="https://findyourfurry.kira-begau.de/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-cyan-400 hover:underline hover:text-cyan-500/80"
+              >
+                Zur Projektseite →
+              </a>
+            </p>
+          </div>
+
+          <div className="bg-gray-900/60 p-5 rounded-2xl shadow-md border border-gray-800 mb-6  transition-all duration-300 hover:-translate-y-2 hover:bg-gray-700/40 hover:shadow-lg">
+            <strong className="block text-cyan-400 text-lg mb-2">
               Weiterbildungsprojekt
             </strong>
             <p className="text-gray-300 leading-relaxed text-sm">
